@@ -1,0 +1,15 @@
+{
+  "wifi_ssid": "SSID",
+  "wifi_passwd": "PASSWORD",
+  "wifi_timeout_sec": 30,
+  "device_name": "my_device_name",
+  "mqtt_server": "192.168.1.1",
+  "mqtt_user": "mqtt_user",
+  "mqtt_password": "mqtt_password",
+  "sleep_time_sec": 300,
+  "dht_model": "22",
+  "dht_pin": 4,
+  "temp_threshold": 0.5,
+  "hum_threshold": 5,
+  "time_threshold": 3600
+}
