@@ -7,9 +7,6 @@
   "mqtt_user": "mqtt_user",
   "mqtt_password": "mqtt_password",
   "sleep_time_sec": 300,
-  "dht_model": "22",
+  "dht_model": "DHT22",
   "dht_pin": 4,
-  "temp_threshold": 0.5,
-  "hum_threshold": 5,
-  "time_threshold": 3600
 }
